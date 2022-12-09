@@ -1,6 +1,6 @@
 {
-    "name": "appui",
-    "short_name": "appui",
+    "name": "menu",
+    "short_name": "menu",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
